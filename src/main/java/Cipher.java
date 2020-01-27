@@ -12,7 +12,7 @@ public class Cipher {
         Encode encoder = new Encode();
         Decode decoder = new Decode();
         if(choiceInput == 1){
-            System.out.println( "Enter the word to encrypt now!");
+            System.out.println( "Enter the word to encrypt now!!");
             String inputToEncode = captureUserInput.next();
             System.out.println("Enter key to encrypt!");
             int inputKey = captureUserInput.nextInt();
