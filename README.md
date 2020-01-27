@@ -1,6 +1,6 @@
 # Ceasar Cypher
 
-[Ceasar-cypher](https://github.com/timothy12maisha/Ceasar-cypher/tree/feature-branch) is a website where on submission of a GitHub username by a user they see names and descriptions of that person's public repositories. 
+[Ceasar-cypher](https://github.com/timothy12maisha/Ceasar-cypher/tree/feature-branch) is a website where we encode and decode a sentence 
 
 
 ## Getting Started
@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 You need to a web browser: 
-* Chrome/Chromium
-* Mozilla Firefox
+* JDK
+* IDE (INTELLIJ IDEA)
 
 
 ### Running 
