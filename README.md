@@ -24,10 +24,7 @@ ng serve
 ```
 
 ## Built With
-* Html
-* Css/Bootstrap
-* Angular
-* TypeScript
+* JAVA
 
 ## Behaviour Driven Development
 * Displays the homepage to ones profile
