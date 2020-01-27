@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Cipher {
     public static void main(String[] args){
         Scanner captureUserInput = new Scanner(System.in);
-        System.out.println("Welcome to  Ceaser Cipher!!");
+        System.out.println("Welcome to  Ceaser Cipher!!!");
         System.out.println("..........................");
         System.out.println("type '1' to encrypt\n");
         System.out.println("type '2' to decrypt\n");
