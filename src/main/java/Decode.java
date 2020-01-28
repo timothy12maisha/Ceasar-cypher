@@ -6,6 +6,9 @@ public class Decode {
              i< userInput.length(); i++ ){
             int indexOfUserInput =letterDatabase.indexOf(userInput.charAt(i));
             int cipherEquation = (indexOfUserInput -Key ) % 26;
+            if(cipherEquation<0){
+                cipherEquation = userInput.length()+cipherEquation;
+            }
             char replaceLetterDatabase = letterDatabase.charAt(cipherEquation);
             decryptedString += replaceLetterDatabase;
         }
